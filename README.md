@@ -3,6 +3,8 @@
 # send-to-osx-grammarly.el
 > simple plugin to send text to/from Grammarly [OSX]
 
+[![CI](https://github.com/emacs-grammarly/send-to-osx-grammarly/actions/workflows/test.yml/badge.svg)](https://github.com/emacs-grammarly/send-to-osx-grammarly/actions/workflows/test.yml)
+
 ![](docs/demo.gif)
 
 **Grammarly has to be opened and a new document has to be opened.**
