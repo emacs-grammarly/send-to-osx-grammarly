@@ -1,5 +1,5 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![JCS-ELPA](https://raw.githubusercontent.com/jcs-emacs/jcs-elpa/master/badges/v/send-to-osx-grammarly.svg)](https://jcs-emacs.github.io/jcs-elpa/#/send-to-osx-grammarly)
+[![JCS-ELPA](https://raw.githubusercontent.com/jcs-emacs/badges/master/elpa/v/send-to-osx-grammarly.svg)](https://jcs-emacs.github.io/jcs-elpa/#/send-to-osx-grammarly)
 
 # send-to-osx-grammarly.el
 > simple plugin to send text to/from Grammarly [OSX]
