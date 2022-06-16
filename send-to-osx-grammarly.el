@@ -5,6 +5,7 @@
 ;; Created date 2021-02-23 20:08:40
 
 ;; Author: Marcin Magnus <m.magnus@zoho.com>
+;; Maintainer: Shen, Jen-Chieh <jcs090218@gmail.com>
 ;; URL: https://github.com/emacs-grammarly/send-to-osx-grammarly
 ;; Version: 0.1.0
 ;; Package-Requires: ((emacs "24.3"))
