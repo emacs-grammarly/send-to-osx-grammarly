@@ -2,6 +2,9 @@
          "0.1.0"
          "A simple plugin to sent text to Grammarly")
 
+(website-url "https://github.com/emacs-grammarly/send-to-osx-grammarly")
+(keywords "osx" "grammarly")
+
 (package-file "send-to-osx-grammarly.el")
 
 (source "melpa")
