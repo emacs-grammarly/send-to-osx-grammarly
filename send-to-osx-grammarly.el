@@ -9,7 +9,7 @@
 ;; URL: https://github.com/emacs-grammarly/send-to-osx-grammarly
 ;; Version: 0.1.0
 ;; Package-Requires: ((emacs "24.3"))
-;; Keywords: osx grammarly
+;; Keywords: convenience osx grammarly
 
 ;; This file is NOT part of GNU Emacs.
 
