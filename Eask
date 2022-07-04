@@ -3,7 +3,7 @@
          "A simple plugin to sent text to Grammarly")
 
 (website-url "https://github.com/emacs-grammarly/send-to-osx-grammarly")
-(keywords "osx" "grammarly")
+(keywords "convenience" "osx" "grammarly")
 
 (package-file "send-to-osx-grammarly.el")
 
