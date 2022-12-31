@@ -1,7 +1,7 @@
 ;;; send-to-osx-grammarly.el --- A simple plugin to sent text to Grammarly  -*- lexical-binding: t; -*-
 
 ;; Copyright (C) 2017-2021  Marcin Magnus
-;; Copyright (C) 2021-2022  Shen, Jen-Chieh
+;; Copyright (C) 2021-2023  Shen, Jen-Chieh
 ;; Created date 2021-02-23 20:08:40
 
 ;; Author: Marcin Magnus <m.magnus@zoho.com>
