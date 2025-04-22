@@ -1,3 +1,5 @@
+;; -*- mode: eask; lexical-binding: t -*-
+
 (package "send-to-osx-grammarly"
          "0.1.0"
          "A simple plugin to sent text to Grammarly")
